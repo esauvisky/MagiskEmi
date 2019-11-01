@@ -1,0 +1,7 @@
+id=emibinaries
+name=Emi Binaries
+version=v4
+versionCode=4000
+author=esauvisky
+description=Installs some useful binaries: bash, strace, eventrec and tcpdump. Comes with integrated .bashrc and .inputrc support and also makes bash the default shell with adb.
+minMagisk=18000
